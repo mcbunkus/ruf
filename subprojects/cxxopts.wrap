@@ -1,0 +1,3 @@
+[wrap-git]
+url = git@github.com:jarro2783/cxxopts.git
+revision = head

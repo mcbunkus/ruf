@@ -1,0 +1,7 @@
+build/
+release/
+test/
+.cache
+
+subprojects/*
+!subprojects/*.wrap
