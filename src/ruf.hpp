@@ -7,6 +7,7 @@
 
 namespace ruf {
 
+// Ruf is the top-level main class that consolidates parameters and executes
 class Ruf {
 public:
   struct Parameters {
